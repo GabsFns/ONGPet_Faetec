@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8ª–¹—2J$abcac269-a43b-473c-b514-6655892efc13
+“	java:S116"QRename this field "Animal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãƒ²¬8²–¹—2J$118b85e9-c34b-47e4-8465-dac9f4416e68
+	java:S116"ORename this field "Nome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï’8²–¹—2J$dae735a9-9782-4e3c-878a-b55316008412
+™	java:S116"RRename this field "Especie" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¤ÇÙşÿÿÿÿ8²–¹—2J$8116e2d7-045f-497f-b8d8-a2b0f1eb66ba
+¢	java:S116"`Rename this field "data_NascimentoAnimal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†÷ò8²–¹—2J$f23d20dd-f48d-44de-b2d5-f68ca77ab831
+œ	java:S116"URename this field "cor_Animal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¡ø€øÿÿÿÿ8²–¹—2J$1fd6973b-fd4f-414a-a151-68de817e00d1
+	java:S116 "VRename this field "peso_Animal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö“‚Ÿüÿÿÿÿ8³–¹—2J$4fa6f27f-fc38-4a11-b079-28a5672d316b

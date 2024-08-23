@@ -1,0 +1,19 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î¯—•úÿÿÿÿ8…ğïè—2J$c12659a2-2069-4a3b-8760-2beda9ee938a
+
+java:S1128"ERemove this unused import 'jakarta.servlet.http.HttpServletResponse'.(ÂÓÕÇÿÿÿÿÿ8Õòïè—2J$d31ef42a-5905-4fed-900b-a16c00904fde
+ˆ
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ8×òïè—2J$1b8d6bc5-1521-41ac-a782-b84a1c228b52
+“
+java:S1128"KRemove this unused import 'org.springframework.security.config.Customizer'.(Ïóœ¬ùÿÿÿÿ8ì÷üè—2J$d1cf7933-32a9-49f2-a630-5f5f8cf82c89
+»
+java:S1128
+"sRemove this unused import 'org.springframework.security.config.annotation.web.configuration.WebSecurityCustomizer'.(†×¥ªüÿÿÿÿ8Ùòïè—2J$6e4fd93b-8db6-464d-810e-689f787f90b7
+£
+java:S1128"[Remove this unused import 'org.springframework.security.config.http.SessionCreationPolicy'.(‚ÌÎîüÿÿÿÿ8Ûòïè—2J$56333068-1eaa-467f-a2c5-7330d085e027
+¥
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8İòïè—2J$68eda434-c49b-4a51-9507-dd8234f2d08c
+¡
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ8Şòïè—2J$8854d7a1-f442-4d37-8767-f467234acdcf
+›
+java:S1128"XRemove this unused import 'org.springframework.security.config.Customizer.withDefaults'.(ÃÒş†8àòïè—2J$5d588ad3-b2c8-4b1c-b6f9-96c262b6aa58

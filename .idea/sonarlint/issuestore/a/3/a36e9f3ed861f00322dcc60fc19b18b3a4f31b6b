@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8ÃÊ‡ã—2J$29121768-086e-47f6-a00f-c85c8ab01b47
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8†ª°ä—2J$1bab1bfd-fa7a-4720-9502-9e919ce65ef1
+„
+java:S1854 "ARemove this useless assignment to local variable "administrador".(ÀÏ¯·8ô“¦é—2J$891a5dec-7cce-485d-84c6-19109637793a
+u
+java:S1481 "2Remove this unused "administrador" local variable.(ÀÏ¯·8ú“¦é—2J$80700dd4-d7e6-4d49-ae25-c54e5e9559e9

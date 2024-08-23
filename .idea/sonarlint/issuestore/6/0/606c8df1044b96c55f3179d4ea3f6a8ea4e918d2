@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8İ³±é–2J$a428a93f-e01d-4d9c-b75a-a522edcc3b67
+	java:S116"[Rename this field "endereco_Entrega" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÅÈä8ã³±é–2J$18264e61-e1c2-43d0-9bcd-8a49b1a9d1dc
+˜	java:S116"VRename this field "data_Comeco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º–ØÏ8ã³±é–2J$eac671f5-2c3c-4547-b075-e38b488830f1
+—	java:S116"URename this field "data_Final" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ‘8ã³±é–2J$067f2000-e4ba-437d-abc5-2b608bb617d6
+œ	java:S116)"URename this field "Notafiscal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ìŸüøÿÿÿÿ8ã³±é–2J$16616783-a282-4af4-8537-cb18f8f2e376
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8Ê…Èã—2

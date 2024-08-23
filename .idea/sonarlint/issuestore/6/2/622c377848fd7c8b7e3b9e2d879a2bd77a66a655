@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8Ž¿Çé—2J$f28f71d5-b93d-4c30-84e0-7130c199dcb3
+–
+java:S1128"NRemove this unused import 'com.example.OngVeterinaria.model.FuncionarioModel'.(µ¿ŸÞûÿÿÿÿ8þÑÙé—2J$8a057f3c-4b54-458a-ae60-babbea94d823
+œ
+java:S1128"TRemove this unused import 'com.example.OngVeterinaria.services.FuncionarioServices'.(öÉÂˆÿÿÿÿÿ8þÑÙé—2J$e5142654-54c5-46eb-826b-e8944963e656
+ˆ
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8þÑÙé—2J$0b149f50-cfb1-42a1-9f1a-9509bfe443b7
+Œ
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8þÑÙé—2J$2705b571-9c8f-4f2e-8937-6dd97538e334
+˜
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8þÑÙé—2J$77353df9-135f-4c04-bdfb-b6298bd8fa78
+˜
+java:S1128	"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àýÿÿÿÿ8þÑÙé—2J$0f6af7d3-78e8-44f3-ac2b-3dede6ba89a2

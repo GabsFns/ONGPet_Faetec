@@ -1,0 +1,9 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Υ£µ8‚φήκ–2J$e9886a78-be44-40cd-a49c-bce6eaf857b8
+	java:S116"VRename this field "id_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(θφ¨ά8…φήκ–2J$628bd52e-83a7-4a1c-b719-392bb4175f13
+—	java:S116"VRename this field "data_comeco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(νΫ<8…φήκ–2J$33ce2eed-aba3-4fca-b393-b0999378da10
+	java:S116"URename this field "data_final" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϋΦϊ¥ϊÿÿÿÿ8…φήκ–2J$b05edca2-6698-440f-abe7-c29b6fe1e5df
+	java:S116$"ZRename this field "status_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ΚΗώ8…φήκ–2J$c72b7068-2da3-4b3e-a1ca-d3018c9e33cf
+~	java:S125"<This block of commented-out lines of code should be removed.(ΉΉωω8φήκ–2J$33551fd0-b3db-40e2-97e9-0f0c513b0b12
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(φ²„¤ώÿÿÿÿ8‰ΰΉ—2J$70f20d45-3416-4693-9baf-06bed9f60790
