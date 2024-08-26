@@ -2,11 +2,19 @@ package com.example.OngVeterinaria.controller;
 
 
 import com.example.OngVeterinaria.model.AdministradorModel;
+import com.example.OngVeterinaria.model.ClienteModel;
+import com.example.OngVeterinaria.model.ConsultaModel;
 import com.example.OngVeterinaria.services.AdministradorServices;
+import com.example.OngVeterinaria.services.ClienteServices;
+import com.example.OngVeterinaria.services.ConsultaServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
+import java.time.LocalDate;
+import java.util.List;
+import java.util.Optional;
 
 
 @RestController
@@ -16,6 +24,11 @@ public class AdministradorController {
     @Autowired
     private AdministradorServices administradorServices;
 
+    private ConsultaServices consultaServices;
+
+    private ClienteServices clienteServices;
+
+    //Cadastra Admin
     @PostMapping("/cadastrar")
     public ResponseEntity<String> cadastrarAdministrador(@RequestBody AdministradorModel administrador) {
         AdministradorModel novoAdministrador = administradorServices.cadastrarAdministrador(administrador);
@@ -25,7 +38,7 @@ public class AdministradorController {
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Erro ao cadastrar administrador.");
         }
     }
-
+    //Login do Admin
     @PostMapping("/login")
     public ResponseEntity<String> login(@RequestBody AdministradorModel loginRequest) {
         try {
@@ -35,4 +48,26 @@ public class AdministradorController {
             return ResponseEntity.status(401).body("Credenciais inválidas: " + e.getMessage());
         }
     }
+    //exibir todos os agendamentos
+    @GetMapping("/agendamento/todos")
+    public List<ConsultaModel> listarTodasConsultas() {
+        return consultaServices.listarTodasConsultas();
+    }
+
+    //Busca agendamento no desktop por nome, id ou data
+    @GetMapping("/agendamento/buscar")
+    public List<ConsultaModel> buscarConsultas(
+            @RequestParam(value = "nome", required = false) String nome,
+            @RequestParam(value = "idCliente", required = false) Long idCliente,
+            @RequestParam(value = "dataComeco", required = false) LocalDate dataComeco) {
+        return consultaServices.buscarConsultasPorFiltros(nome, idCliente, dataComeco);
+    }
+
+    //Pesquisar Usuario na tabela Desktop
+    @GetMapping("/cliente/{id}")
+    public ResponseEntity<ClienteModel> buscarClientePorId(@PathVariable Long id) {
+        Optional<ClienteModel> cliente = clienteServices.buscarClientePorId(id);
+        return cliente.map(ResponseEntity::ok).orElseGet(() -> ResponseEntity.notFound().build());
+    }
+
 }

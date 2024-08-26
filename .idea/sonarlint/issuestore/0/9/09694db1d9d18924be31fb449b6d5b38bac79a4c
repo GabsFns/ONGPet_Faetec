@@ -1,32 +1,27 @@
 
-˜	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã­½¡ıÿÿÿÿ8ç¤°¹—2J$c33ca1dd-660c-4ddb-87a7-460faeacddb1
-˜	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıîğÅøÿÿÿÿ8é¤°¹—2J$75fe96d9-2ecb-466f-a70b-f6927bf7d7ca
-˜	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¥‹Ôıÿÿÿÿ8ê¤°¹—2J$81c59d8b-b64e-4390-ac1b-bfcfbb557faa
-’	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼âã48ê¤°¹—2J$552785ec-66ae-457b-a071-0f4fba740efa
-˜	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó„Èûÿÿÿÿ8ë¤°¹—2J$a1e37992-74a0-44cb-97ee-9f3ef7e966ff
-’	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶óŒ58ë¤°¹—2J$64ddbb76-deb3-4d93-84a1-08ffb16378fa
-“	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üö“8ë¤°¹—2J$082c94fb-6e20-4f04-a5eb-4324d75bba69
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8Ÿù¬Á–2J$36391d5a-918a-4b88-8532-ce4d307267be
-	java:S116m"VRename this field "cpf_Cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‘Öêşÿÿÿÿ8¢œ³À–2J$b9bab58c-27a7-44c8-b6a4-e6f50d8bc0e4
-™	java:S116p"WRename this field "nome_Cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çœñÚ8¢œ³À–2J$9cbc7c63-cd2d-453a-846c-8bc6c8d5ae88
-š	java:S116s"XRename this field "email_Cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‹À8¢œ³À–2J$846e2b44-e076-4a29-8ce3-2ca983832b48
-	java:S116v"[Rename this field "password_Cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ§°İ8¢œ³À–2J$1e7fc5f7-dea3-489a-9020-387275224347
-	java:S116y"[Rename this field "telefone_Cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë›®ô8¢œ³À–2J$0860fdb5-1ef6-4712-86e0-7c4ed2db20e5
-	java:S116€"ZRename this field "data_nascimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒß8£œ³À–2J$66753201-5d27-4593-8025-fd15dad1e867
-š	java:S116ƒ"XRename this field "data_Cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜õ½8£œ³À–2J$9c35ff91-863e-47e4-bca5-160b40b9be0a
-t
-java:S1948"+Make "enderecos" transient or serializable.(³¸“¯üÿÿÿÿ8ƒ™Ù¿—2J$81c93f2c-70c2-4794-bd83-6341286bbb2f
-	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¸¬ë8²¥°¹—2J$ae2eb18b-e6ce-44a8-9679-c47f685e3785
-•	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã­½¡ıÿÿÿÿ8³¥°¹—2J$ea19f81a-0da4-4be5-9951-92d374b4a09b
-•	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¯™“ûÿÿÿÿ8µ¥°¹—2J$cfd641ca-9858-4210-b146-c3e0ef03ffa9
-•	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıîğÅøÿÿÿÿ8¶¥°¹—2J$4436d6e7-5304-4a66-a6e7-1649688260ea
-•	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É™¥´ùÿÿÿÿ8¾¥°¹—2J$0fdca950-9a4e-4c00-a497-220fb6a655c6
-•	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¥‹Ôıÿÿÿÿ8Â¥°¹—2J$608aba3f-5a04-4aed-8f55-1b11d39d551a
-•	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è²Üˆıÿÿÿÿ8Â¥°¹—2J$cc2e7524-f222-427d-9a4f-588c570a6d2a
-	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼âã48Ä¥°¹—2J$3954ee80-cfe1-45dd-afdd-e80cff43760b
-•	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚïÆ›ùÿÿÿÿ8Æ¥°¹—2J$108e7dca-2ae6-4170-81f5-b246ff3a7c8f
-•	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó„Èûÿÿÿÿ8È¥°¹—2J$41390a21-556f-49e5-923c-10310306a060
-	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¼¡8Ê¥°¹—2J$551d1659-e598-474e-ad3f-3f71f6a6bf5a
-	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶óŒ58Ì¥°¹—2J$f4456b4b-397c-445c-8c91-489efffdd32c
-	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êš¥/8Í¥°¹—2J$e15fa67e-da1e-446d-b208-cf73ef2d1057
-	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üö“8Î¥°¹—2J$f6e17112-334a-44ff-9f75-e4f4a4505dab
+˜	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Àşšùÿÿÿÿ8Ø§œƒ™2J$a7f5c114-a2bb-41a7-8271-7852980c92a0
+“	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÈªÎ8Ù§œƒ™2J$2df867ad-4c3d-401e-a866-7f7619597b33
+˜	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¥‹Ôıÿÿÿÿ8Ù§œƒ™2J$c8819083-d7a8-409d-b2ee-6ace616c248f
+“	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼âã48Ù§œƒ™2J$ec22f48f-d2cc-46be-b8e3-8b532a9120a2
+”	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üö“8Ù§œƒ™2J$4708f81f-124f-4d23-b1f5-231c508a0001
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8Ù§œƒ™2J$a200029e-7d38-432e-b37a-2bae5eaf34d2
+	java:S116"VRename this field "cpf_Cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‘Öêşÿÿÿÿ8ß§œƒ™2J$9158ce7c-b588-4f52-a440-aeb94537a585
+	java:S116 "[Rename this field "password_Cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ§°İ8ß§œƒ™2J$4fc92ab6-4466-4638-8b74-cac448ba209a
+	java:S116#"[Rename this field "telefone_Cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë›®ô8ß§œƒ™2J$43caee1c-7308-4875-a9a1-8aad71e776f7
+œ	java:S116*"ZRename this field "data_nascimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒß8ß§œƒ™2J$5e58578b-a1dd-4f14-b669-775d1b5ad372
+™	java:S116-"XRename this field "data_Cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜õ½8ß§œƒ™2J$2731b2ee-d694-4823-a681-35446f9fbc3e
+s
+java:S19489"+Make "enderecos" transient or serializable.(³¸“¯üÿÿÿÿ8â§œƒ™2J$085ff3d9-6721-4973-b8ee-58ebf10d5498
+	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–»¥ë8ò§œƒ™2J$cbc7525a-88bc-42db-8b83-5b02753c2964
+•	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Àşšùÿÿÿÿ8ò§œƒ™2J$57b29f54-5093-4099-8755-bc9fab196593
+•	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤âÉ¿ıÿÿÿÿ8ò§œƒ™2J$e4f671e1-3f35-4d26-9bb5-3db269c53b52
+	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÈªÎ8ò§œƒ™2J$9cab6c60-0e44-49c5-92ba-fd7965de83ce
+•	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É™¥´ùÿÿÿÿ8ô§œƒ™2J$0cc82650-b611-4c6a-a1f4-3abfb11ee8ee
+•	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¥‹Ôıÿÿÿÿ8ô§œƒ™2J$9c7a91e5-f298-4053-89f2-160b2f3ac526
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è²Üˆıÿÿÿÿ8õ§œƒ™2J$045ffa1b-7943-47ba-8bf2-d6685c7e7b37
+	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼âã48÷§œƒ™2J$a77bf023-f7af-4746-9fe3-11293349424d
+–	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¹¯ïıÿÿÿÿ8û§œƒ™2J$a606e82e-d52e-4516-81a9-51bdd90f9c4f
+	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êš¥/8û§œƒ™2J$391ad48b-85f5-4947-b21d-092a0db20f30
+‘	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üö“8ü§œƒ™2J$fe7a03c2-d73b-4aac-b971-a3eda74dbfa0
+‹
+java:S1128"CRemove this unused import 'jakarta.validation.constraints.NotNull'.(Àª•ıÿÿÿÿ8—‘Ÿƒ™2J$0ac0101e-41ce-453b-baef-9fc57b6027d7

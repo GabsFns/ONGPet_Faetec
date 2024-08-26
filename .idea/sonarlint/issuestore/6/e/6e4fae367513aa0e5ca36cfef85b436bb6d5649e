@@ -1,9 +1,23 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8‚öÞê–2J$e9886a78-be44-40cd-a49c-bce6eaf857b8
-˜	java:S116"VRename this field "id_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èö¨Ü8…öÞê–2J$628bd52e-83a7-4a1c-b719-392bb4175f13
-—	java:S116"VRename this field "data_comeco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŽÛ<8…öÞê–2J$33ce2eed-aba3-4fca-b393-b0999378da10
-œ	java:S116"URename this field "data_final" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÖú¥úÿÿÿÿ8…öÞê–2J$b05edca2-6698-440f-abe7-c29b6fe1e5df
-œ	java:S116$"ZRename this field "status_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÊÇþ8…öÞê–2J$c72b7068-2da3-4b3e-a1ca-d3018c9e33cf
-~	java:S125"<This block of commented-out lines of code should be removed.(¹¹ùù8ŒöÞê–2J$33551fd0-b3db-40e2-97e9-0f0c513b0b12
+“	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶„ï8¼‘Ó‚˜2J$9e5413f9-62f5-4533-81fe-0150f40784eb
+“	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð•£“8½‘Ó‚˜2J$60ec267a-c216-4238-a994-56f319ab3d6e
+“	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÌç´8½‘Ó‚˜2J$dfaef0e1-19c8-4707-9453-7007fe26ab01
+“	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š—’—8½‘Ó‚˜2J$8aa7e3f2-9b5d-4f4d-85df-1b493dd7eef3
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8‚öÞê–2J$9f3e6a5a-d0da-4c20-81b8-e08e30ea4fc2
+˜	java:S116"VRename this field "id_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èö¨Ü8…öÞê–2J$c5648bce-4361-44b5-a47e-4e6180c8e4a2
+—	java:S116"VRename this field "data_comeco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŽÛ<8…öÞê–2J$50c30ba6-5c11-4c01-aa5d-64588df8d5ed
+œ	java:S116"URename this field "data_final" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÖú¥úÿÿÿÿ8…öÞê–2J$639c2f25-dc2b-4210-a780-9db0fcfe1ad9
+œ	java:S116$"ZRename this field "status_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÊÇþ8Å´‘™2J$e17608f9-99a5-44a8-936b-79dfe02b4d6b
+~	java:S125"<This block of commented-out lines of code should be removed.(¹¹ùù8ŒöÞê–2J$f01befdd-b1b4-4346-810b-1c4f6397d598
+	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´‡K8Ç‘Ó‚˜2J$0be31adf-8edd-469e-95cd-b8bcb2c2e397
+	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶„ï8Ç‘Ó‚˜2J$88f2ccf5-c753-4222-b544-8965ef410a41
+•	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²šÿ•üÿÿÿÿ8É‘Ó‚˜2J$3b85be44-82a2-44ca-9867-0a67ca79dc1d
+	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð•£“8Ê‘Ó‚˜2J$a9f562e0-021e-481d-80fe-a6de109c1ac3
+•	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à£Ÿ­þÿÿÿÿ8Ê‘Ó‚˜2J$581f0f1c-f4c0-4ea6-95a5-ca8c8ab98704
+	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÌç´8…’Ó‚˜2J$4fc1f7af-0854-4cdc-b513-74d2fde80c8e
+•	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÏçœúÿÿÿÿ8…’Ó‚˜2J$9fce9f5b-8553-4217-9ca7-009f65c52605
+	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š—’—8…’Ó‚˜2J$09aece40-4b5d-40bd-ac79-622a90eaa55b
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8åë‡˜2J$1df6d1af-d5bf-40a9-b6f7-4c1d4f9a9fd9
 r
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8‰à¹—2J$70f20d45-3416-4693-9baf-06bed9f60790
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8°­…‡˜2J$4fda1eea-3ede-494c-99fa-a7e815f29d52

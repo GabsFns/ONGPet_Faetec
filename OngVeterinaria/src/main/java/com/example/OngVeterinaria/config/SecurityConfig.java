@@ -30,5 +30,10 @@ public class SecurityConfig { //configuracao do spring security
 
         return http.build(); //retorna as permisoes que eu deixei
     }
+
+    @Bean
+    public PasswordEncoder passwordEncoder() {
+        return new BCryptPasswordEncoder();
+    }
     }
 

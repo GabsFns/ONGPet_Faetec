@@ -1,4 +1,28 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£
-X
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8ÄîŒƒ™2J$5e988ff8-a513-4403-9809-b6cf4f64e79f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÒîŒƒ™2J$85c49988-30c4-4369-a811-150813a4fd00
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÕîŒƒ™2J$041b1c3c-ca48-41eb-b57a-c2455fa892f8
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8×îŒƒ™2J$58a6a9c4-c6b9-4a3a-9631-d1481d1ce4f9
+i
+java:S1452)"&Remove usage of generic wildcard type.(Óô¾8éîŒƒ™2J$93d009c1-91ee-4335-9b67-91a03cce732d
+½
+java:S6204."zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ğîŒƒ™2J$b60168fa-7558-4f27-82ae-f5f243dadf60
+Ÿ
+java:S1612-"WReplace this lambda with method reference 'MessageSourceResolvable::getDefaultMessage'.(¿½šæşÿÿÿÿ8ÿîŒƒ™2J$e863e5bb-e651-4c3d-813b-20cf193aad20
+ˆ
+java:S1854h"@Remove this useless assignment to local variable "clienteModel".(¢æéşÿÿÿÿ8±ïŒƒ™2J$e1965865-526f-4f73-8973-2e2eae5cc44a
+y
+java:S1481h"1Remove this unused "clienteModel" local variable.(¢æéşÿÿÿÿ8¹ïŒƒ™2J$5069b781-7343-427a-ad34-cda17d5ff166
+n
+java:S1452p"&Remove usage of generic wildcard type.(Ä­˜ûùÿÿÿÿ8»ïŒƒ™2J$1cf2a560-0db7-42b1-995e-69a989c758be
+n
+java:S1452|"&Remove usage of generic wildcard type.(·æ©şÿÿÿÿ8ÃïŒƒ™2J$d16c62b0-928d-4f29-97a1-4901a08fa789
+i
+java:S1452ˆ"&Remove usage of generic wildcard type.(æÄj8ÌïŒƒ™2J$009f0fe7-52e3-481c-8d00-ee117dc9e4c7
+˜
+java:S1128"PRemove this unused import 'com.example.OngVeterinaria.model.AdministradorModel'.(´åæ³ùÿÿÿÿ8ÏïŒƒ™2J$919fd166-5587-4611-bf14-0443425d7e9f
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ÑïŒƒ™2J$b609f284-0126-43d3-8c1b-bc5d8d66cb0e

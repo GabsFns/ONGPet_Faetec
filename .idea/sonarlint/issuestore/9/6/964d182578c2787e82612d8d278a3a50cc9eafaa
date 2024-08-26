@@ -1,5 +1,5 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8É†¹ê–2J$5e6302ec-0698-4f83-b6f4-c475981819dd
-˜	java:S116"VRename this field "tipo_Doacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¦ôË8Ï†¹ê–2J$e601c73e-cd69-44b3-92cf-cab463fe50da
-ž	java:S116"WRename this field "valor_Doacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ä½úüÿÿÿÿ8Ï†¹ê–2J$c33fd697-6ad4-4fb0-80b3-2a32f788594c
-ž	java:S116"\Rename this field "quantidade_Doacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬à¼³8Ï†¹ê–2J$2862f145-7649-4ac2-84df-6ca1bf9c7388
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8É†¹ê–2J$e85e8569-afb0-45b9-a289-2c4bcc5ab906
+˜	java:S116"VRename this field "tipo_Doacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¦ôË8Ï†¹ê–2J$071b7a3c-5953-4c9c-b4d3-363a32f757d2
+ž	java:S116"WRename this field "valor_Doacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ä½úüÿÿÿÿ8Ï†¹ê–2J$c7548aac-5e38-479e-92ff-53d2f060cce9
+ž	java:S116"\Rename this field "quantidade_Doacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬à¼³8Ï†¹ê–2J$d569c266-bd99-43d4-b5af-47b8b74d9b9a

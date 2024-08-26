@@ -1,7 +1,2 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8÷…Ùê–2J$69afa0be-851c-411d-ad5d-35f7d609597d
-Ÿ	java:S116"XRename this field "tipo_Denuncia" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÕçşÿÿÿÿ8å Ó•—2J$608f8131-949c-4101-9f81-d47b89ae0801
-m
-java:S1948$"*Make "endereco" transient or serializable.(õ¢„§8•Å¹—2J$bcd8f434-20e2-42f8-9dac-21ffdf5d473a
-x
-java:S1128	"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ÄÅ¹—2J$73d490a9-571c-4a92-82a8-a675f8ebfbf8
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8îŒ›€™2J$5ce08e22-324c-4211-92f1-50b38fd3adcb

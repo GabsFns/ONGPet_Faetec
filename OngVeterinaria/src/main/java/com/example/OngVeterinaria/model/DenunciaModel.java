@@ -1,46 +1,96 @@
 package com.example.OngVeterinaria.model;
 
-
 import com.example.OngVeterinaria.model.Enum.TipoDenucias;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.NotBlank;
 
-import java.io.Serializable;
 import java.time.LocalDate;
 
 @Entity
 @Table(name = "Tb_Denuncia")
-public class DenunciaModel implements Serializable {
+public class DenunciaModel {
 
     @Id
-    @GeneratedValue (strategy = GenerationType.IDENTITY)
-    private long idDenuncia;
-
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id; // Identificador único para a entidade
 
     @Enumerated(EnumType.STRING)
-    @Column(name = "Denuncias") @NotBlank(message = "Campo Obrigatorio")
-    private TipoDenucias tipo_Denuncia;
+    @Column(name = "Denuncias")
+    private TipoDenucias tipoDenucias;
 
-
-    @Column(name = "Descricao") @NotBlank(message = "Campo Obrigatorio")
+    @Column(name = "Descricao")
     private String descricao;
 
+    @Column(name = "Data")
+    private LocalDate dataDenuncia;
 
     @ManyToOne
-    @JoinColumn(name = "idCliente", nullable = false)
+    @JoinColumn(name = "idCliente")
     private ClienteModel cliente;
-
-
-    @OneToOne(cascade = CascadeType.ALL)
-    @JoinColumn(name = "idEndereco", referencedColumnName = "idEndereco")
-    private EnderecoModel endereco;
-
 
     @ManyToOne
     @JoinColumn(name = "idAnimal")
     private AnimalModel animal;
 
+    @ManyToOne
+    @JoinColumn(name = "idEndereco")
+    private EnderecoModel endereco;
 
-    @Column(name = "Valor")
-    private Long valor;
+    public EnderecoModel getEndereco() {
+        return endereco;
+    }
+
+    public void setEndereco(EnderecoModel endereco) {
+        this.endereco = endereco;
+    }
+
+    // Getters e Setters
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public TipoDenucias getTipoDenucias() {
+        return tipoDenucias;
+    }
+
+    public void setTipoDenucias(TipoDenucias tipoDenucias) {
+        this.tipoDenucias = tipoDenucias;
+    }
+
+    public String getDescricao() {
+        return descricao;
+    }
+
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
+    }
+
+    public LocalDate getDataDenuncia() {
+        return dataDenuncia;
+    }
+
+    public void setDataDenuncia(LocalDate dataDenuncia) {
+        this.dataDenuncia = dataDenuncia;
+    }
+
+    public ClienteModel getCliente() {
+        return cliente;
+    }
+
+    public void setCliente(ClienteModel cliente) {
+        this.cliente = cliente;
+    }
+
+    public AnimalModel getAnimal() {
+        return animal;
+    }
+
+    public void setAnimal(AnimalModel animal) {
+        this.animal = animal;
+    }
 }
+
+

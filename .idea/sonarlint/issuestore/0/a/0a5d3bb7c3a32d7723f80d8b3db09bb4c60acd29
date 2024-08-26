@@ -1,8 +1,8 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8–‰áê–2J$6935b160-5fff-4587-99fa-05daeda7cee2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8–‰áê–2J$492c7300-35d0-4be4-8426-7b1ed2891dae
 š
-java:S1128"XRemove this unused import 'com.example.OngVeterinaria.model.Enum.StatusCliente_Estoque'.(‰£¥h8ÀÌÇ¹—2J$3a064969-f612-4a30-9513-83a0bf0fc3c6
+java:S1128"XRemove this unused import 'com.example.OngVeterinaria.model.Enum.StatusCliente_Estoque'.(‰£¥h8ÀÌÇ¹—2J$b7c6fcd0-a69c-4449-ab9e-e593e514a2fa
 Œ
-java:S1128"DRemove this unused import 'jakarta.validation.constraints.NotBlank'.(ÕØ¡Õøÿÿÿÿ8ÀÌÇ¹—2J$6493fcae-0ec4-4902-b834-efa5e208eaa2
+java:S1128"DRemove this unused import 'jakarta.validation.constraints.NotBlank'.(ÕØ¡Õøÿÿÿÿ8ÀÌÇ¹—2J$d93d5bf2-22a4-43c5-ae68-37b37088d274
 x
-java:S1128	"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8ÀÌÇ¹—2J$f591afbb-4735-4ee3-afa8-6582040e717f
+java:S1128	"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8ÀÌÇ¹—2J$8dc18dfb-02f2-4140-afeb-5f38bd55a93b

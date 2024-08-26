@@ -1,4 +1,29 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÉªøÿÿÿÿÿJ$36618567-f0ed-4fb0-853d-7cf7ff6b1b0e
+˜	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øßè›üÿÿÿÿ8×øó€™2J$531c364e-ad8f-4b33-997e-e0327a4c9b38
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÉªøÿÿÿÿÿ8×øó€™2J$c9aadf01-858b-441d-818d-3fc4deef5c44
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò§“©üÿÿÿÿ8äøó€™2J$eae883c2-05f8-4efb-98ba-8c1da4ef39d4
+	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(¦ÚØ¬üÿÿÿÿ8æøó€™2J$4c9252d0-65d4-40ad-80ca-6d1867610da6
+	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(Å¨û´ûÿÿÿÿ8æøó€™2J$672efe09-4ab5-4bae-ae1d-c77f56207a14
+	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(Å¨û´ûÿÿÿÿ8æøó€™2J$1ac56b71-1817-44fb-988a-7c5ad7cb6d6f
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÛØˆ“—2J$d2667218-d3f3-4bbe-a9c6-43506d9a4a90
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8êøó€™2J$f35c617a-ef85-4876-9a52-4f0fb869bd9c
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8êøó€™2J$e5294543-ffe4-484e-84e4-a8d70489021e
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8ëøó€™2J$86e9a4dd-690f-44f0-9c04-6cae3c0ce1cf
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8«‘®™2J$09a0caa4-71a5-4046-8df8-6b9e4d4eba81
+‘
+java:S1128"IRemove this unused import 'com.example.OngVeterinaria.model.AnimalModel'.(È€¸Ñøÿÿÿÿ8²ƒ™2J$8d878fa2-006e-4e38-9860-71bfeb16edd5
+
+java:S1128"KRemove this unused import 'com.example.OngVeterinaria.model.ConsultaModel'.(ıñÒ8²ƒ™2J$bfd769df-23d3-47e7-9590-7e42b8771e24
+o
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68³ƒ™2J$403e9a82-e37c-4125-b31c-217cc8f6e560
+w
+java:S1128	"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ8³ƒ™2J$af92a039-bf3a-41ce-b696-6ccacafe3ac0
+¥
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8³ƒ™2J$598b0e66-b2ed-4a9b-8ab9-9e5dec17fd9a
+x
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8şˆƒ™2J$5443bb68-8a39-40b0-ba8f-0c61c95e27dc
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8³ƒ™2J$cee25475-9743-4788-92d7-add35253d688

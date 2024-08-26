@@ -1,6 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÉªøÿÿÿÿÿ8üÔñâ—2J$b0e35fbc-7081-4cdc-a3cb-46001efdcfc6
-ˆ	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(³çŽ‘8ÁÝ²ä—2J$18cb00e3-76c9-48e6-8a41-0d00523d9f96
-ž	java:S116"WRename this field "Criptografar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¢Ððþÿÿÿÿ8ñ™Ñç—2J$0f44f242-2758-451c-85e3-34242861f65c
-_
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ó½Ñç—2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÉªøÿÿÿÿÿ8üÔñâ—2J$5cc0409c-8133-476b-8dc3-256b56b52c4f
+ˆ	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(³çŽ‘8ÁÝ²ä—2J$72f61a56-487b-45e5-925b-39a6adce5531
+ž	java:S116"WRename this field "Criptografar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¢Ððþÿÿÿÿ8ñ™Ñç—2J$4f63c025-936a-456e-b5d5-cecab2d571e6
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ó½Ñç—2J$c11a50ac-eab2-4fe0-b46c-897a5ba8d5da

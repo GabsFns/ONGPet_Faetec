@@ -1,16 +1,16 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÉªøÿÿÿÿÿ8ÙşØé—2
-r
-java:S1128"PRemove this unused import 'com.example.OngVeterinaria.model.AdministradorModel'.(´åæ³ùÿÿÿÿ8ŞşØé—2
-p
-java:S1128"NRemove this unused import 'com.example.OngVeterinaria.model.FuncionarioModel'.(µ¿ŸŞûÿÿÿÿ8ßşØé—2
-v
-java:S1128"ZRemove this unused import 'com.example.OngVeterinaria.repository.AdministradorRepository'.(ÿîœ\8ßşØé—2
-t
-java:S1128"XRemove this unused import 'com.example.OngVeterinaria.repository.FuncionarioRepository'.(ß˜²8àşØé—2
-u
-java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8àşØé—2
-
-java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8àşØé—2
-Q
-java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8áşØé—2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÉªøÿÿÿÿÿ8ÙşØé—2J$320ae692-9ead-4740-9ddb-601cbd8a2365
+˜
+java:S1128"PRemove this unused import 'com.example.OngVeterinaria.model.AdministradorModel'.(´åæ³ùÿÿÿÿ8ŞşØé—2J$c254ef4a-0a23-4496-9f2e-226fc5451d74
+–
+java:S1128"NRemove this unused import 'com.example.OngVeterinaria.model.FuncionarioModel'.(µ¿ŸŞûÿÿÿÿ8ßşØé—2J$4f333cea-85e2-4bd0-9f61-ec9b81f69c75
+œ
+java:S1128"ZRemove this unused import 'com.example.OngVeterinaria.repository.AdministradorRepository'.(ÿîœ\8ßşØé—2J$36a9dbe5-92ba-46c0-9434-ffdc42921b7c
+š
+java:S1128"XRemove this unused import 'com.example.OngVeterinaria.repository.FuncionarioRepository'.(ß˜²8àşØé—2J$f7ea9c06-7087-4147-9388-050316544736
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8àşØé—2J$0158f06b-5ba2-434a-81ea-708e07d5cb01
+¥
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8àşØé—2J$e9d460ae-4c51-4cc5-b238-1897e3f3fa23
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8áşØé—2J$2ac2453d-3347-42d0-bf01-0877e7d0fd0d
