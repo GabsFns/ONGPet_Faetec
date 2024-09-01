@@ -15,6 +15,10 @@ import java.util.Set;
 public class ConsultaModel implements Serializable {
 
 
+
+    public ConsultaModel() {
+    }
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id_consulta;
@@ -48,6 +52,7 @@ public class ConsultaModel implements Serializable {
 
 
 
+    // Construtor padrão
 
     public @NotBlank(message = "Campo Obrigatorio") String getDescricao() {
         return descricao;

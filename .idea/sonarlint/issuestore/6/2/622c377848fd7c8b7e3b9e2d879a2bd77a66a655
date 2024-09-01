@@ -1,8 +1,10 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8«Æâ™2J$908438cb-2f7a-4c58-ad38-ba43b8506f2b
-–
-java:S1128"NRemove this unused import 'com.example.OngVeterinaria.model.FuncionarioModel'.(µ¿ŸŞûÿÿÿÿ8¸Æâ™2J$5aef4107-56e3-4c07-a1f3-761c22404b01
-œ
-java:S1128"TRemove this unused import 'com.example.OngVeterinaria.services.FuncionarioServices'.(öÉÂˆÿÿÿÿÿ8»Æâ™2J$58075b12-b90c-442d-b2f9-ba6f5c33f462
-ˆ
-java:S1128	"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8»Æâ™2J$75d7c72c-423f-4655-b6f2-9eb04eff6158
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8“Ö†ş™2J$7ef77952-134b-405d-9ced-fdcdace52b42
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜Ö†ş™2J$1bc9a8b8-1680-4c4c-8336-467c67b1bfb9
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜Ö†ş™2J$be9cd885-9a6f-40b1-bd3a-e50e524cc06a
+…
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8˜Ö†ş™2J$123cf659-f23d-4eac-a935-4838644e8e7d
+z
+java:S6814b"2Convert this optional parameter to an Object type.(§•ğÏıÿÿÿÿ8¬Ö†ş™2J$d5b4f0f1-f692-40f6-9920-04f8142c3a61

@@ -1,5 +1,7 @@
 package com.example.OngVeterinaria.model;
 
+import com.example.OngVeterinaria.model.Enum.TipoEspecie;
+import com.example.OngVeterinaria.model.Enum.TipoFuncionario;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import com.example.OngVeterinaria.model.Enum.Genero;
@@ -92,5 +94,17 @@ public class FuncionarioModel implements Serializable {
     @Column(name = "DataEmissao") @NotNull
     private LocalDate data_emissao;
 
+    public @NotNull(message = "Campo Obrigatório") TipoFuncionario getTipoFuncionario() {
+        return tipoFuncionario;
+    }
+
+    public void setTipoFuncionario(@NotNull(message = "Campo Obrigatório") TipoFuncionario tipoFuncionario) {
+        this.tipoFuncionario = tipoFuncionario;
+    }
+
+    @Column(name = "Tipo")
+    @Enumerated(EnumType.STRING)
+    @NotNull(message = "Campo Obrigatório")
+    private TipoFuncionario tipoFuncionario;
 
 }

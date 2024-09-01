@@ -3,7 +3,8 @@ package com.example.OngVeterinaria.model.Enum;
 public enum StatusGeral {
     PENDENTE,
     ANDAMENTO,
-    CONCLUIDO
+    CONCLUIDO,
+    CANCELADO
 
     //Vai ser utilizado para Status_Denuncia,Consulta,Adocao
 }

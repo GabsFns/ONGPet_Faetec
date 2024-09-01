@@ -3,7 +3,6 @@ package com.example.OngVeterinaria.model;
 import com.example.OngVeterinaria.model.Enum.Genero;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.NotNull;
 
 import java.io.Serializable;
 import java.time.LocalDate;
@@ -61,6 +60,10 @@ public class ClienteModel implements Serializable {
 
     @Column(name = "ResetTokenExpiration")
     private LocalDateTime resetTokenExpiration;
+
+    public ClienteModel(Long idCliente) {
+
+    }
 
 
     @PrePersist

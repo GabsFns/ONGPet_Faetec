@@ -1,10 +1,10 @@
 package com.example.OngVeterinaria.services;
 
-import com.example.OngVeterinaria.model.AnimalModel;
-import com.example.OngVeterinaria.model.ClienteModel;
-import com.example.OngVeterinaria.model.ConsultaModel;
+import com.example.OngVeterinaria.model.*;
+import com.example.OngVeterinaria.model.Enum.TipoDenucias;
 import com.example.OngVeterinaria.repository.ClienteRepository;
 import com.example.OngVeterinaria.repository.ConsultaRepository;
+import com.example.OngVeterinaria.repository.DenunciaRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -34,6 +34,9 @@ public class ClienteServices {
 
     @Autowired
     private ConsultaRepository consultaRepository;
+
+    @Autowired
+    private DenunciaRepository denunciaRepository;
 
     //METODO CADASTRAR CLIENTE
     public ClienteModel cadastrarCliente(ClienteModel cliente) {
@@ -140,6 +143,39 @@ public class ClienteServices {
             throw new RuntimeException("Cliente não encontrado.");
         }
     }
+
+
+
+
+
+
+
+
+
+
+    //Denunciar
+    public DenunciaModel RealizarDenuncias(DenunciaModel denunciaModel){
+        return denunciaRepository.save(denunciaModel);
+    }
+    public List<DenunciaModel> ListarTodasDenuncias() {
+        return denunciaRepository.findAll();
+    }
+    public List<DenunciaModel> buscarPorCliente(Long idCliente) {
+        return denunciaRepository.findByCliente_Id(idCliente);
+    }
+
+    public List<DenunciaModel> buscarPorData(LocalDate dataDenuncia) {
+        return denunciaRepository.findByDataDenuncia(dataDenuncia);
+    }
+
+    public List<DenunciaModel> buscarPorTipo(TipoDenucias tipoDenucias) {
+        return denunciaRepository.findByTipoDenucias(tipoDenucias);
+    }
+
+    public List<DenunciaModel> buscarPorClienteDataETipo(Long idCliente, LocalDate dataDenuncia, TipoDenucias tipoDenucias) {
+        return denunciaRepository.buscarPorClienteDataETipo(idCliente, dataDenuncia, tipoDenucias);
+    }
+
 
 
 

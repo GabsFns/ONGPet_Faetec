@@ -1,5 +1,6 @@
 package com.example.OngVeterinaria.model;
 
+import com.example.OngVeterinaria.model.Enum.StatusGeral;
 import com.example.OngVeterinaria.model.Enum.TipoDenucias;
 import jakarta.persistence.*;
 
@@ -11,7 +12,7 @@ public class DenunciaModel {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id; // Identificador único para a entidade
+    private Long idDenuncia; // Identificador único para a entidade
 
     @Enumerated(EnumType.STRING)
     @Column(name = "Denuncias")
@@ -22,6 +23,10 @@ public class DenunciaModel {
 
     @Column(name = "Data")
     private LocalDate dataDenuncia;
+
+    @Enumerated(EnumType.STRING)
+    @Column(name = "Status")
+    private StatusGeral statusGeral;
 
     @ManyToOne
     @JoinColumn(name = "idCliente")
@@ -44,12 +49,12 @@ public class DenunciaModel {
     }
 
     // Getters e Setters
-    public Long getId() {
-        return id;
+    public Long getIdDenuncia() {
+        return idDenuncia;
     }
 
-    public void setId(Long id) {
-        this.id = id;
+    public void setIdDenuncia(Long id) {
+        this.idDenuncia = idDenuncia;
     }
 
     public TipoDenucias getTipoDenucias() {

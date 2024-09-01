@@ -1,6 +1,13 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÉªøÿÿÿÿÿ8–¦ë‚˜2J$a236dac8-ab20-4495-b855-c8931b41b7c3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÉªøÿÿÿÿÿ8Í‰³‡š2J$513767d0-7ebf-4ae3-a7a7-e845451b87ab
+w
+java:S3740n"/Provide the parametrized type for this generic.(ôû“ïüÿÿÿÿ8Ğ‰³‡š2J$2f18a45a-6933-42e6-9b57-9dc1ac67b615
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¦ë‚˜2J$31bf3c72-a8a1-469b-ad8e-1cf45b3901ee
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ò‰³‡š2J$25921d94-ffd9-48aa-8b20-4a3a2736631d
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¦ë‚˜2J$e3fc6a69-676f-433d-9640-8572ca96c12d
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ò‰³‡š2J$a9f63935-e75d-4bf6-8c4d-5576e582fb8e
+~	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(´’ª”8Ó‰³‡š2J$b6378840-0e89-4d87-bf8a-702e6fa7e95c
+ƒ	java:S107;"<Method has 8 parameters, which is greater than 7 authorized.(›˜˜Äûÿÿÿÿ8Ó‰³‡š2J$5bde7933-d360-4574-b12b-2dd1d0e3a88e
+š
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(›˜˜Äûÿÿÿÿ8İ‰³‡š2J$f872b73c-f122-4ee9-9ff7-67dd098f7fef
+ƒ	java:S125v"<This block of commented-out lines of code should be removed.(Ï‘ÆÅûÿÿÿÿ8ã‰³‡š2J$76d4fd83-16bd-4070-b9d5-c00dba8fd6cc

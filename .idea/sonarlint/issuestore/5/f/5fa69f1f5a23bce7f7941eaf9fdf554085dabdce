@@ -1,28 +1,30 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8ÄîŒƒ™2J$5e988ff8-a513-4403-9809-b6cf4f64e79f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8ˆˆ‡š2J$9ff38526-552c-41cc-b284-bfe7aa020792
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÒîŒƒ™2J$85c49988-30c4-4369-a811-150813a4fd00
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8ˆ‡š2J$9a51f789-6595-4e63-95bd-f5419550f42d
 …
-java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÕîŒƒ™2J$041b1c3c-ca48-41eb-b57a-c2455fa892f8
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8ˆ‡š2J$5eb768d8-cf54-4b97-8ec1-d868935b4154
 …
-java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8×îŒƒ™2J$58a6a9c4-c6b9-4a3a-9631-d1481d1ce4f9
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ8ˆ‡š2J$6510102c-8bab-4df1-be6f-c2b3b9c2791e
+…
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ8ˆ‡š2J$c2bda7c7-402b-4701-aa95-ab565e63b206
+…
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ8ÇŠ‡š2J$63ff9271-751c-4d52-bb36-7e14f7daeebc
+…
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ8–ù•‡š2J$c5418137-6d9b-455c-baf6-bb9f3c2392ea
 i
-java:S1452)"&Remove usage of generic wildcard type.(Óô¾8éîŒƒ™2J$93d009c1-91ee-4335-9b67-91a03cce732d
+java:S14527"&Remove usage of generic wildcard type.(Óô¾8“ˆ‡š2J$55fdb6d2-6f7b-4f28-9168-f38ec38fa65f
 ½
-java:S6204."zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ğîŒƒ™2J$b60168fa-7558-4f27-82ae-f5f243dadf60
+java:S6204<"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8”ˆ‡š2J$e894eaa1-503e-4813-9068-ebd20b6a249f
 Ÿ
-java:S1612-"WReplace this lambda with method reference 'MessageSourceResolvable::getDefaultMessage'.(¿½šæşÿÿÿÿ8ÿîŒƒ™2J$e863e5bb-e651-4c3d-813b-20cf193aad20
-ˆ
-java:S1854h"@Remove this useless assignment to local variable "clienteModel".(¢æéşÿÿÿÿ8±ïŒƒ™2J$e1965865-526f-4f73-8973-2e2eae5cc44a
-y
-java:S1481h"1Remove this unused "clienteModel" local variable.(¢æéşÿÿÿÿ8¹ïŒƒ™2J$5069b781-7343-427a-ad34-cda17d5ff166
-n
-java:S1452p"&Remove usage of generic wildcard type.(Ä­˜ûùÿÿÿÿ8»ïŒƒ™2J$1cf2a560-0db7-42b1-995e-69a989c758be
-n
-java:S1452|"&Remove usage of generic wildcard type.(·æ©şÿÿÿÿ8ÃïŒƒ™2J$d16c62b0-928d-4f29-97a1-4901a08fa789
+java:S1612;"WReplace this lambda with method reference 'MessageSourceResolvable::getDefaultMessage'.(¿½šæşÿÿÿÿ8•ˆ‡š2J$b3ea6df1-edc6-44b0-854d-2de673ec27af
+‰
+java:S1854‚"@Remove this useless assignment to local variable "clienteModel".(¢æéşÿÿÿÿ8šˆ‡š2J$49ca5812-c657-4e01-99f6-883faed18e88
+z
+java:S1481‚"1Remove this unused "clienteModel" local variable.(¢æéşÿÿÿÿ8›ˆ‡š2J$8328ba35-df61-451c-baad-068f8bae2610
+o
+java:S1452Š"&Remove usage of generic wildcard type.(Ä­˜ûùÿÿÿÿ8›ˆ‡š2J$3372e4db-0443-4a70-b816-591ae79ac9fc
+o
+java:S1452–"&Remove usage of generic wildcard type.(·æ©şÿÿÿÿ8ˆ‡š2J$d2fd2017-8743-4e6a-b49c-b5bab16aa689
 i
-java:S1452ˆ"&Remove usage of generic wildcard type.(æÄj8ÌïŒƒ™2J$009f0fe7-52e3-481c-8d00-ee117dc9e4c7
-˜
-java:S1128"PRemove this unused import 'com.example.OngVeterinaria.model.AdministradorModel'.(´åæ³ùÿÿÿÿ8ÏïŒƒ™2J$919fd166-5587-4611-bf14-0443425d7e9f
-w
-java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ÑïŒƒ™2J$b609f284-0126-43d3-8c1b-bc5d8d66cb0e
+java:S1452¢"&Remove usage of generic wildcard type.(æÄj8ˆ‡š2J$1a11537a-58c1-4cde-9bb1-a9feaf90d899

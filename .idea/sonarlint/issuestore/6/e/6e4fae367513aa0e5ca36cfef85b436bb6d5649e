@@ -1,23 +1,25 @@
 
-“	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶„ï8¼‘Ó‚˜2J$9e5413f9-62f5-4533-81fe-0150f40784eb
-“	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð•£“8½‘Ó‚˜2J$60ec267a-c216-4238-a994-56f319ab3d6e
-“	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÌç´8½‘Ó‚˜2J$dfaef0e1-19c8-4707-9453-7007fe26ab01
-“	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š—’—8½‘Ó‚˜2J$8aa7e3f2-9b5d-4f4d-85df-1b493dd7eef3
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8‚öÞê–2J$9f3e6a5a-d0da-4c20-81b8-e08e30ea4fc2
-˜	java:S116"VRename this field "id_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èö¨Ü8…öÞê–2J$c5648bce-4361-44b5-a47e-4e6180c8e4a2
-—	java:S116"VRename this field "data_comeco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŽÛ<8…öÞê–2J$50c30ba6-5c11-4c01-aa5d-64588df8d5ed
-œ	java:S116"URename this field "data_final" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÖú¥úÿÿÿÿ8…öÞê–2J$639c2f25-dc2b-4210-a780-9db0fcfe1ad9
-œ	java:S116$"ZRename this field "status_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÊÇþ8Å´‘™2J$e17608f9-99a5-44a8-936b-79dfe02b4d6b
-~	java:S125"<This block of commented-out lines of code should be removed.(¹¹ùù8ŒöÞê–2J$f01befdd-b1b4-4346-810b-1c4f6397d598
-	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´‡K8Ç‘Ó‚˜2J$0be31adf-8edd-469e-95cd-b8bcb2c2e397
-	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶„ï8Ç‘Ó‚˜2J$88f2ccf5-c753-4222-b544-8965ef410a41
-•	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²šÿ•üÿÿÿÿ8É‘Ó‚˜2J$3b85be44-82a2-44ca-9867-0a67ca79dc1d
-	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð•£“8Ê‘Ó‚˜2J$a9f562e0-021e-481d-80fe-a6de109c1ac3
-•	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à£Ÿ­þÿÿÿÿ8Ê‘Ó‚˜2J$581f0f1c-f4c0-4ea6-95a5-ca8c8ab98704
-	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÌç´8…’Ó‚˜2J$4fc1f7af-0854-4cdc-b513-74d2fde80c8e
-•	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÏçœúÿÿÿÿ8…’Ó‚˜2J$9fce9f5b-8553-4217-9ca7-009f65c52605
-	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š—’—8…’Ó‚˜2J$09aece40-4b5d-40bd-ac79-622a90eaa55b
+“	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶„ï8¾ëÚ†š2J$04eb1afa-b90c-4bb1-af13-e3acd135ad20
+“	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð•£“8¿ëÚ†š2J$7fe5fb29-b03a-4da3-b2ad-c7790c0725b7
+“	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÌç´8¿ëÚ†š2J$ba5873f5-d6b6-4613-9c4b-64b120b06497
+“	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š—’—8¿ëÚ†š2J$041b4fcf-f310-42bb-93d3-999aed500340
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8‚öÞê–2J$65fcb624-cf0a-4b69-a2e6-2c14d1c67071
+˜	java:S116"VRename this field "id_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èö¨Ü8…öÞê–2J$6a011847-8a52-4282-9d5b-19bb5d5bd919
+—	java:S116"VRename this field "data_comeco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŽÛ<8…öÞê–2J$502b688e-e91f-4419-a433-a9471504e38e
+œ	java:S116 "URename this field "data_final" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÖú¥úÿÿÿÿ8…öÞê–2J$a9d36565-e4f7-4c8b-80e3-e1736c625b0f
+œ	java:S116("ZRename this field "status_consulta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÊÇþ8Å´‘™2J$35e12833-b5d1-4de2-a195-acf650248ae2
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å”‘µ8²ÚÞ†š2J$bd20446e-4cb5-4098-af3a-85e949c982b2
+~	java:S125"<This block of commented-out lines of code should be removed.(¹¹ùù8ŒöÞê–2J$cc0773fc-1e8b-481c-b26f-1ac811e88741
+	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´‡K8Ç‘Ó‚˜2J$3e894a66-43f6-494f-9403-64c5e70974cf
+	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶„ï8Ç‘Ó‚˜2J$08ff295a-a4cf-4fc8-8a65-3066bfeb401e
+•	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²šÿ•üÿÿÿÿ8É‘Ó‚˜2J$10443b98-ab6f-4cde-8572-24dfdc313a1c
+	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð•£“8Ê‘Ó‚˜2J$b4169b27-6993-4e16-8d72-a941efc38bb5
+•	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à£Ÿ­þÿÿÿÿ8Ê‘Ó‚˜2J$66335023-17e0-401b-be88-bf49de487e9d
+	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÌç´8…’Ó‚˜2J$e5ab58bf-8d58-41c4-9c95-ef315853e7ab
+•	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÏçœúÿÿÿÿ8…’Ó‚˜2J$f729be5b-0481-425d-b5e7-3631a17c091b
+	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š—’—8…’Ó‚˜2J$3919ceba-d964-4b89-b33a-2beeb35f315e
 |
-java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8åë‡˜2J$1df6d1af-d5bf-40a9-b6f7-4c1d4f9a9fd9
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ð„Ú†š2J$a201e360-e5d3-4513-8940-36c319f942d7
 r
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8°­…‡˜2J$4fda1eea-3ede-494c-99fa-a7e815f29d52
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8ð„Ú†š2J$eec7eb13-8911-4505-8620-6244bf3984c1

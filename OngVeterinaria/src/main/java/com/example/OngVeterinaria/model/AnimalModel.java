@@ -6,7 +6,6 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 
 import java.io.Serializable;
-import java.time.LocalDate;
 
 
 @Entity
@@ -27,9 +26,19 @@ public class AnimalModel implements Serializable {
     @NotNull(message = "Campo Obrigatório")
     private TipoEspecie especie;
 
+
+
+    @Column(name = "Raca") // Adicionado campo de raça
+    private String raca;
+
+
     @Column(name = "DataNascimento")
     @NotNull(message = "Campo Obrigatório")
-    private LocalDate dataNascimento;
+    private String idade;
+
+
+    @Column(name = "Descricao")
+    private String descricao;
 
     @Column(name = "Cor")
     @NotBlank(message = "Campo Obrigatório")
@@ -47,6 +56,9 @@ public class AnimalModel implements Serializable {
     @JoinColumn(name = "idCliente", nullable = false)
     private ClienteModel cliente;
 
+    public AnimalModel(Long idAnimal) {
+    }
+
     // Getters e Setters
     public long getIdAnimal() {
         return idAnimal;
@@ -54,6 +66,13 @@ public class AnimalModel implements Serializable {
 
     public void setIdAnimal(long idAnimal) {
         this.idAnimal = idAnimal;
+    }
+    public String getDescricao() {
+        return descricao;
+    }
+
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
     }
 
     public String getNome() {
@@ -72,12 +91,20 @@ public class AnimalModel implements Serializable {
         this.especie = especie;
     }
 
-    public LocalDate getDataNascimento() {
-        return dataNascimento;
+    public String getIdade() {
+        return idade;
     }
 
-    public void setDataNascimento(LocalDate dataNascimento) {
-        this.dataNascimento = dataNascimento;
+    public String getRaca() {
+        return raca;
+    }
+
+    public void setRaca(String raca) {
+        this.raca = raca;
+    }
+
+    public void setIdade(String idade) {
+        this.idade = idade;
     }
 
     public String getCor() {

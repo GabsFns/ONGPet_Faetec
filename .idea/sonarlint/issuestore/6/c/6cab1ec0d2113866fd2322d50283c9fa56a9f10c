@@ -1,3 +1,7 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8Ù½Á¹—2J$774628d0-1590-4a8d-8bc6-57ababeaa380
-Ÿ	java:S116"XRename this field "Status_Adocao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úè¡›üÿÿÿÿ8ß½Á¹—2J$c5721ffd-c91f-4131-b2e1-eb13115631b5
+“	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ÷òÙ8Ÿ¦Ì…š2J$3f971567-b8bd-4174-8acd-3979dc3dffb8
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8˜ãõ„š2J$90224afa-2361-4dc6-a7d7-933f10f0ff5d
+	java:S116"WRename this field "StatusAdocao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì©ûşÿÿÿÿ8Äáé…š2J$18138bf7-d8d1-4c8c-a48c-e5d878c2ede9
+	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ÷òÙ8§¦Ì…š2J$e99b2ac7-1cba-4aaa-8fd2-f6da1ba5830d
+x
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8¶ÿ‡š2J$88ce2f2d-53bc-479e-b9f7-a84b66fd1071

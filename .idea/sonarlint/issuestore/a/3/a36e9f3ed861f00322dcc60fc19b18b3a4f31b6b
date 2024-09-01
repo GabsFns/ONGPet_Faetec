@@ -1,6 +1,14 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8ˆ¸Á™2J$869e9fa2-6d69-4a61-9167-cef9600a81c1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¢£8×õ¹ú™2J$b8df8885-e665-4772-87d0-644ba96fbf91
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Úõ¹ú™2J$2a8d5d55-978e-46fb-8c14-7e55793b4c0e
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Úõ¹ú™2J$ef7831f4-a47b-47dd-b4a6-8763a154a43a
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8Úõ¹ú™2J$9111d751-f103-40db-923c-66327fcd3c48
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8Úõ¹ú™2J$3970af19-4a41-42a7-8a03-786a861f26c0
 „
-java:S1854-"ARemove this useless assignment to local variable "administrador".(ÀÏ¯·8–¸Á™2J$85a780da-fda6-4c6c-862d-7fad27a8a45c
+java:S18544"ARemove this useless assignment to local variable "administrador".(ÀÏ¯·8ğõ¹ú™2J$81a7dcbb-3b76-42fd-aad3-98b3d67b2351
 u
-java:S1481-"2Remove this unused "administrador" local variable.(ÀÏ¯·8™¸Á™2J$50171d37-0e49-4a77-a420-797fe5d91bc3
+java:S14814"2Remove this unused "administrador" local variable.(ÀÏ¯·8õõ¹ú™2J$83acd0b2-dff0-4c1c-8ebf-3dd660e9d3dc
