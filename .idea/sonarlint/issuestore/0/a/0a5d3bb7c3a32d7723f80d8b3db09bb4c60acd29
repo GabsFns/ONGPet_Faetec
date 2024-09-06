@@ -1,8 +1,0 @@
-
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8–‰áê–2J$69818d04-779b-42d3-b063-c9086abf7494
-š
-java:S1128"XRemove this unused import 'com.example.OngVeterinaria.model.Enum.StatusCliente_Estoque'.(‰£¥h8ÀÌÇ¹—2J$5dd59b44-5d47-42bb-b351-e3dc9c18ef1b
-Œ
-java:S1128"DRemove this unused import 'jakarta.validation.constraints.NotBlank'.(ÕØ¡Õøÿÿÿÿ8ÀÌÇ¹—2J$3f5b8c7b-6742-4177-a62f-6733dbfc7cfa
-x
-java:S1128	"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8ÀÌÇ¹—2J$37c85d36-ee42-4f3b-86b9-4ec58ecf0ffb

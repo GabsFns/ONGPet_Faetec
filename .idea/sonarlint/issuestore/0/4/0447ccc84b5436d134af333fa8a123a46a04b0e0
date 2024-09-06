@@ -1,8 +1,0 @@
-
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8áåÇû™2J$af13b6c8-6c9b-4720-a985-5e2855b9d822
-°
-java:S41659"hRemove this useless assignment; "idDenuncia" already holds the assigned value along all execution paths.(©Ä¾šþÿÿÿÿ8“¶Éû™2J$43f15091-0deb-4f74-9b91-42214ef8cc6d
-l
-java:S11728")Remove this unused method parameter "id".(Ã¥‡à8È¶Éû™2J$81921862-359d-482d-b274-016b1ac66407
-w
-java:S16569"/Remove or correct this useless self-assignment.(©Ä¾šþÿÿÿÿ8ã¶Éû™2J$954397ec-b13f-4c1c-9b06-8eed35009acf

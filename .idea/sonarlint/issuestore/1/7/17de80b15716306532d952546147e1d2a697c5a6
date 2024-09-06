@@ -1,5 +1,0 @@
-
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£µœ8Ùµ°ê–2J$acca25f0-3f17-4b9c-9a99-f59e09b061d2
-	java:S116"ORename this field "Nome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï’8Üµ°ê–2J$d57c58fb-afb2-4c6b-9ed2-72d83fa1234b
-™	java:S116"WRename this field "tipo_estoque" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ŒÍú8Üµ°ê–2J$228d5554-0ec0-43c9-a41b-5515cf19af36
-	java:S116$"WRename this field "data_Estoque" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüáüÿÿÿÿ8Üµ°ê–2J$911de408-ec1e-4c9b-a25d-c26f42478786
